@@ -1,0 +1,12 @@
+.containerMenu{
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.menu{
+  display: flex;
+  list-style: none;
+  gap: 16px;
+}
