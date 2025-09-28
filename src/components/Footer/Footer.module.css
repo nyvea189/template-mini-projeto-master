@@ -1,7 +1,7 @@
 /* src/components/Footer.module.css */
 .footer {
-  background-color: #1c1c1c;
-  color: #fff;
+  background-color: #1a0057;
+  color: #d9d6d3;
   padding: 20px 10px;
   margin-top: 40px;
 }
@@ -25,11 +25,11 @@
 }
 
 .links a {
-  color: #fff;
+  color: #a59898;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .links a:hover {
-  color: #00adb5;
+  color: #cdcdd0;
 }
